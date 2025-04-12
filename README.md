@@ -17,9 +17,11 @@
 ### 🚀 What I'm working on
 
 Currently focused on:
-- 📱 Improving user experience and performance in Android apps
+- 📱 **Improving user experience and performance** in **Android apps**, **iOS apps**, and **SDKs** for both platforms
 - 🧪 Building scalable mobile solutions with modern architecture
-- 🔐 Learning more about app security and CI/CD integration
+- 🔐 Learning more about app security, performance optimization, and CI/CD integration
+- 🔄 Continuously enhancing the **SDKs** to ensure smooth cross-platform compatibility and robust performance
+
 
 ---
 
