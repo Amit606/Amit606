@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi there, I'm Amit Kumar Gupta
 
-<!--
-**Amit606/Amit606** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Software Engineering Manager (SDK)** at [iZooto](https://www.izooto.com)  
+📍 Based in India | 💼 Passionate about building powerful Android SDK, iOS SDK, and Apps
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tech Stack
+
+- 💡 Kotlin, Java, Swift, Objective-C, Flutter, React Native
+- 📱 Android SDK, Jetpack Compose, MVVM
+- 🧰 Git, Gradle, Retrofit, Room
+- 🔧 Firebase, REST APIs, XML, JSON
+
+---
+
+### 🚀 What I'm working on
+
+Currently focused on:
+- 📱 Improving user experience and performance in Android apps
+- 🧪 Building scalable mobile solutions with modern architecture
+- 🔐 Learning more about app security and CI/CD integration
+
+---
+
+### 📫 Let's connect!
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/amitguptaandroid/)
+- 📧 amitsun.noida@gmail.com
+
+---
+
+⭐️ Thanks for stopping by!
