@@ -1,35 +1,69 @@
-# 👋 Hi there, I'm Amit Kumar Gupta
+# 👋 Hi, I'm Amit Kumar Gupta  
 
-🎯 **Software Engineering Manager (SDK)** at [iZooto](https://www.izooto.com)  
-📍 Based in India | 💼 Passionate about building powerful Android SDK, iOS SDK, and Apps
+🚀 **Software Engineering Manager (Mobile SDKs)**  
+📍 India | Building scalable, high-performance mobile platforms  
 
----
-
-### 💻 Tech Stack
-
-- 💡 Kotlin, Java, Swift, Objective-C, Flutter, React Native
-- 📱 Android SDK, Jetpack Compose, MVVM
-- 🧰 Git, Gradle, Retrofit, Room
-- 🔧 Firebase, REST APIs, XML, JSON
+I specialize in designing and optimizing **Android & iOS SDKs**, focusing on performance, reliability, and developer experience. Passionate about solving real-world problems through clean architecture and scalable mobile solutions.
 
 ---
 
-### 🚀 What I'm working on
+## 💼 What I Do  
 
-Currently focused on:
-- 📱 **Improving user experience and performance** in **Android apps**, **iOS apps**, and **SDKs** for both platforms
-- 🧪 Building scalable mobile solutions with modern architecture
-- 🔐 Learning more about app security, performance optimization, and CI/CD integration
-- 🔄 Continuously enhancing the **SDKs** to ensure smooth cross-platform compatibility and robust performance
-
-
----
-
-### 📫 Let's connect!
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/amitguptaandroid/)
-- 📧 amitsun.noida@gmail.com
+- 📱 Build and optimize **Android & iOS SDKs**
+- ⚡ Improve **app performance, scalability, and UX**
+- 🧩 Design **modular, maintainable architectures (MVVM, Clean Architecture)**
+- 🔐 Work on **security, stability, and production-grade systems**
+- 🔄 Enable **cross-platform consistency (Flutter, React Native integrations)**
 
 ---
 
-⭐️ Thanks for stopping by!
+## 🛠 Tech Stack  
+
+### Languages & Frameworks  
+- Kotlin, Java, Swift, Objective-C  
+- Flutter, React Native  
+
+### Mobile Development  
+- Android SDK, Jetpack Compose, MVVM  
+- iOS SDK Development  
+
+### Tools & Libraries  
+- Retrofit, Room, Gradle  
+- Git, CI/CD Pipelines  
+
+### Backend & Services  
+- Firebase, REST APIs  
+- JSON, XML  
+
+---
+
+## 🚀 Current Focus  
+
+- ⚡ Enhancing **SDK performance & reliability at scale**  
+- 🧪 Building **highly scalable mobile architectures**  
+- 🔐 Deep dive into **mobile security & app hardening**  
+- 🔄 Implementing **CI/CD & automation for mobile pipelines**  
+- 📊 Improving **developer experience (DX) for SDK users**  
+
+---
+
+## 🌟 Key Strengths  
+
+- 📦 SDK Architecture & Design  
+- ⚡ Performance Optimization  
+- 🔍 Debugging Complex Production Issues  
+- 🧠 System Design for Mobile Platforms  
+- 👥 Mentoring & Leading Engineering Teams  
+
+---
+
+## 📫 Connect With Me  
+
+- 💼 LinkedIn: https://www.linkedin.com/in/amitguptaandroid/  
+- 📧 Email: amitsun.noida@gmail.com  
+
+---
+
+## ⚡ Fun Fact  
+
+I enjoy turning complex mobile challenges into **simple, scalable, and elegant SDK solutions**.
