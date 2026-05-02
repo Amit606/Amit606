@@ -1,69 +1,74 @@
-# 👋 Hi, I'm Amit Kumar Gupta  
+👋 Hi, I'm **Amit Kumar Gupta**
 
-🚀 **Software Engineering Manager (Mobile SDKs)**  
-📍 India | Building scalable, high-performance mobile platforms  
+🚀 **Senior Software Developer | Mobile Lead (SDKs)**  
+📍 Delhi NCR, India | 8.5+ Years Experience
 
-I specialize in designing and optimizing **Android & iOS SDKs**, focusing on performance, reliability, and developer experience. Passionate about solving real-world problems through clean architecture and scalable mobile solutions.
-
----
-
-## 💼 What I Do  
-
-- 📱 Build and optimize **Android & iOS SDKs**
-- ⚡ Improve **app performance, scalability, and UX**
-- 🧩 Design **modular, maintainable architectures (MVVM, Clean Architecture)**
-- 🔐 Work on **security, stability, and production-grade systems**
-- 🔄 Enable **cross-platform consistency (Flutter, React Native integrations)**
+I build **scalable, production-grade mobile SDKs** and applications that power millions of users. Passionate about performance, reliability, developer experience, and AI-powered mobile solutions.
 
 ---
 
-## 🛠 Tech Stack  
+## 💼 What I Do
 
-### Languages & Frameworks  
-- Kotlin, Java, Swift, Objective-C  
-- Flutter, React Native  
-
-### Mobile Development  
-- Android SDK, Jetpack Compose, MVVM  
-- iOS SDK Development  
-
-### Tools & Libraries  
-- Retrofit, Room, Gradle  
-- Git, CI/CD Pipelines  
-
-### Backend & Services  
-- Firebase, REST APIs  
-- JSON, XML  
+- **Led development** of a cross-platform Push Notification SDK (Android, iOS, React Native, Flutter) integrated into **900+ apps**, delivering **14+ billion notifications**.
+- Architected and built **SDK Launcher** — a comprehensive developer tool that dramatically improves SDK integration and onboarding experience.
+- Drive **technical leadership** in mobile architecture, team mentoring, and enterprise-grade integrations (IRCTC, Zee News).
+- Leverage **AI & Prompt Engineering** to optimize code, automate workflows, and build intelligent features.
 
 ---
 
-## 🚀 Current Focus  
+## 🛠 Tech Stack
 
-- ⚡ Enhancing **SDK performance & reliability at scale**  
-- 🧪 Building **highly scalable mobile architectures**  
-- 🔐 Deep dive into **mobile security & app hardening**  
-- 🔄 Implementing **CI/CD & automation for mobile pipelines**  
-- 📊 Improving **developer experience (DX) for SDK users**  
+### Languages
+- **Kotlin**, Java, **Swift**, Dart, JavaScript, Python (AI scripting)
 
----
+### Mobile & Frameworks
+- **Android SDK** (Kotlin Coroutines, Jetpack)
+- **iOS SDK** (Swift, SwiftUI, Combine)
+- **React Native** & **Flutter** (Plugins & Modules)
+- MVVM, Clean Architecture
 
-## 🌟 Key Strengths  
+### Tools & Platforms
+- **Firebase** (FCM, AI Logic, ML Kit)
+- **AdMob** Monetization
+- **GitHub Actions** (CI/CD)
+- **Apache Kafka** (Event Streaming)
+- SDK Development, Performance Profiling, App Hardening
 
-- 📦 SDK Architecture & Design  
-- ⚡ Performance Optimization  
-- 🔍 Debugging Complex Production Issues  
-- 🧠 System Design for Mobile Platforms  
-- 👥 Mentoring & Leading Engineering Teams  
-
----
-
-## 📫 Connect With Me  
-
-- 💼 LinkedIn: https://www.linkedin.com/in/amitguptaandroid/  
-- 📧 Email: amitsun.noida@gmail.com  
+### Other
+- Prompt Engineering & LLM Integration (Gemini, GPT)
+- WorkManager, Retrofit, Room, CocoaPods, Gradle
 
 ---
 
-## ⚡ Fun Fact  
+## 🚀 Key Achievements
 
-I enjoy turning complex mobile challenges into **simple, scalable, and elegant SDK solutions**.
+- Scaled Push Notification SDK to **900+ publishers** and **14B+ notifications** delivered.
+- Designed & launched **SDK Launcher** tool — significantly improved developer experience and adoption.
+- Successfully delivered enterprise integrations for **IRCTC Rail Connect** & **Zee News** (millions of DAUs).
+- Reduced ANR rate, fixed memory leaks, optimized APK size, and improved killed-mode notification delivery (especially on Xiaomi devices).
+- Mentored developers and established CI/CD best practices.
+
+---
+
+## 🌟 Current Focus
+
+- Building high-performance, AI-enhanced mobile SDKs
+- Advancing **developer experience (DX)** for SDK consumers
+- Deep performance optimization & low-latency systems
+- Technical leadership in mobile platforms
+
+---
+
+## 📫 Connect With Me
+
+- 💼 **LinkedIn**: [linkedin.com/in/amitguptaandroid](https://www.linkedin.com/in/amitguptaandroid/)
+- 📧 **Email**: amitsun.noida@gmail.com
+- 📄 **Resume**: Available upon request
+
+---
+
+## ⚡ Fun Fact
+
+I love turning **complex mobile challenges** (ANRs, memory leaks, killed-state delivery, cross-platform consistency) into **reliable, scalable, and elegant solutions**.
+
+---
