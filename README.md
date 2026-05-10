@@ -9,7 +9,7 @@ I build **scalable, production-grade mobile SDKs** and applications that power m
 
 ## 💼 What I Do
 
-- **Led development** of a cross-platform Push Notification SDK (Android, iOS, React Native, Flutter) integrated into **900+ apps**, delivering **14+ billion notifications**.
+- **Lead Mobile App development** of a cross-platform Push Notification SDK (Android, iOS, React Native, Flutter) integrated into **900+ apps**, delivering **14+ billion notifications**.
 - Architected and built **SDK Launcher** — a comprehensive developer tool that dramatically improves SDK integration and onboarding experience.
 - Drive **technical leadership** in mobile architecture, team mentoring, and enterprise-grade integrations (IRCTC, Zee News).
 - Leverage **AI & Prompt Engineering** to optimize code, automate workflows, and build intelligent features.
