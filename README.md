@@ -1,7 +1,7 @@
 👋 Hi, I'm **Amit Kumar Gupta**
 
 🚀 **Senior Software Developer | Mobile Lead (SDKs)**  
-📍 Delhi NCR, India | 8.5+ Years Experience
+📍 Delhi NCR, India | 10+ Years Experience
 
 I build **scalable, production-grade mobile SDKs** and applications that power millions of users. Passionate about performance, reliability, developer experience, and AI-powered mobile solutions.
 
