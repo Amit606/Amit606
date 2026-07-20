@@ -1,74 +1,186 @@
-👋 Hi, I'm **Amit Kumar Gupta**
+# 👋 Hi, I'm **Amit Kumar Gupta**
 
-🚀 **Senior Software Developer | Mobile Lead (SDKs)**  
-📍 Delhi NCR, India | 10+ Years Experience
+<div align="center">
 
-I build **scalable, production-grade mobile SDKs** and applications that power millions of users. Passionate about performance, reliability, developer experience, and AI-powered mobile solutions.
+### 🚀 Senior Software Engineering Manager • Mobile SDK Architect • AI Prompt Engineer
 
----
+**Building AI-powered Mobile SDKs • Android • iOS • Flutter • React Native • Spring Boot**
 
-## 💼 What I Do
+📍 Delhi NCR, India 🇮🇳
 
-- **Lead Mobile App development** of a cross-platform Push Notification SDK (Android, iOS, React Native, Flutter) integrated into **900+ apps**, delivering **14+ billion notifications**.
-- Architected and built **SDK Launcher** — a comprehensive developer tool that dramatically improves SDK integration and onboarding experience.
-- Drive **technical leadership** in mobile architecture, team mentoring, and enterprise-grade integrations (IRCTC, Zee News).
-- Leverage **AI & Prompt Engineering** to optimize code, automate workflows, and build intelligent features.
+**10+ Years of Experience**
+
+</div>
 
 ---
 
-## 🛠 Tech Stack
+## 🚀 About Me
 
-### Languages
-- **Kotlin**, Java, **Swift**, Dart, JavaScript, Python (AI scripting)
+I'm a **Senior Software Engineering Manager** specializing in **Mobile SDK Development**, **AI-powered applications**, and **Developer Platforms**.
 
-### Mobile & Frameworks
-- **Android SDK** (Kotlin Coroutines, Jetpack)
-- **iOS SDK** (Swift, SwiftUI, Combine)
-- **React Native** & **Flutter** (Plugins & Modules)
-- MVVM, Clean Architecture
+Over the past decade, I've built scalable mobile infrastructure powering **900+ mobile applications** and delivering **14+ billion push notifications** worldwide.
 
-### Tools & Platforms
-- **Firebase** (FCM, AI Logic, ML Kit)
-- **AdMob** Monetization
-- **GitHub Actions** (CI/CD)
-- **Apache Kafka** (Event Streaming)
-- SDK Development, Performance Profiling, App Hardening
-
-### Other
-- Prompt Engineering & LLM Integration (Gemini, GPT)
-- WorkManager, Retrofit, Room, CocoaPods, Gradle
+My passion lies in solving complex engineering problems, improving developer experience, and integrating **Generative AI** into real-world products.
 
 ---
 
-## 🚀 Key Achievements
+## 💡 What I'm Currently Working On
 
-- Scaled Push Notification SDK to **900+ publishers** and **14B+ notifications** delivered.
-- Designed & launched **SDK Launcher** tool — significantly improved developer experience and adoption.
-- Successfully delivered enterprise integrations for **IRCTC Rail Connect** & **Zee News** (millions of DAUs).
-- Reduced ANR rate, fixed memory leaks, optimized APK size, and improved killed-mode notification delivery (especially on Xiaomi devices).
-- Mentored developers and established CI/CD best practices.
-
----
-
-## 🌟 Current Focus
-
-- Building high-performance, AI-enhanced mobile SDKs
-- Advancing **developer experience (DX)** for SDK consumers
-- Deep performance optimization & low-latency systems
-- Technical leadership in mobile platforms
+* 🤖 AI Prompt Engineering & LLM Applications
+* 🧠 GPT & Gemini Integration
+* 📱 Android & iOS SDK Architecture
+* ⚡ Mobile Performance Optimization
+* 🚀 Cross-platform SDKs (Flutter & React Native)
+* ☁️ Spring Boot Backend Development
+* 🔄 CI/CD & DevOps Automation
+* 📊 Firebase Analytics & Remote Config
 
 ---
 
-## 📫 Connect With Me
+# 🛠 Tech Stack
 
-- 💼 **LinkedIn**: [linkedin.com/in/amitguptaandroid](https://www.linkedin.com/in/amitguptaandroid/)
-- 📧 **Email**: amitsun.noida@gmail.com
-- 📄 **Resume**: Available upon request
+### Mobile
+
+* Kotlin
+* Java
+* Swift
+* SwiftUI
+* Android SDK
+* Jetpack Compose
+* Flutter
+* React Native
+
+### Backend
+
+* Spring Boot
+* REST APIs
+* PostgreSQL
+* Firebase
+* Kafka
+
+### AI & Prompt Engineering
+
+* OpenAI GPT
+* Google Gemini
+* Prompt Engineering
+* AI Workflow Automation
+* AI-assisted Development
+* Retrieval-Augmented Generation (RAG)
+* AI Content Generation
+
+### Cloud & DevOps
+
+* GitHub Actions
+* Docker
+* Gradle
+* CocoaPods
+* Firebase App Distribution
 
 ---
 
-## ⚡ Fun Fact
+# 🚀 Key Achievements
 
-I love turning **complex mobile challenges** (ANRs, memory leaks, killed-state delivery, cross-platform consistency) into **reliable, scalable, and elegant solutions**.
+🏆 Mobile SDK integrated into **900+ applications**
+
+📨 Delivered **14+ Billion Push Notifications**
+
+📱 Built enterprise SDKs used by large-scale production apps
+
+🚄 Enterprise integrations including **IRCTC Rail Connect**
+
+📰 Successfully delivered solutions for **Zee News**
+
+⚡ Improved app startup performance and SDK initialization
+
+📉 Reduced ANRs and memory leaks across production applications
+
+👨‍💻 Led engineering teams and mentored mobile developers
 
 ---
+
+# 🤖 AI Engineering
+
+I'm actively exploring how AI can transform software development.
+
+Current interests include:
+
+* Prompt Engineering
+* AI Agents
+* Code Generation
+* Mobile AI Assistants
+* AI-powered Developer Tools
+* LLM Integration
+* Context Engineering
+* AI Automation
+* MCP
+* RAG Systems
+* AI-first Mobile Apps
+
+---
+
+# ✍️ Technical Writing
+
+I regularly write about:
+
+* Android Development
+* Mobile SDK Architecture
+* System Design
+* AI Engineering
+* Prompt Engineering
+* DSA
+* Performance Optimization
+* Spring Boot
+* Software Engineering
+
+📚 I publish technical articles on **Medium** focused on practical engineering, AI, and scalable software development.
+
+---
+
+# 🌱 Currently Learning
+
+* Agentic AI
+* Multi-Agent Systems
+* Advanced Prompt Engineering
+* Vector Databases
+* MCP
+* AI SDKs
+* LangChain
+* Production AI Systems
+
+---
+
+# 📈 GitHub Goals
+
+* Open Source Contributions
+* AI Projects
+* Android Libraries
+* Developer Tools
+* Mobile SDK Examples
+* Technical Blogs
+* Engineering Best Practices
+
+---
+
+# 🤝 Let's Connect
+
+💼 **LinkedIn**
+
+https://www.linkedin.com/in/amitguptaandroid/
+
+📧 **Email**
+
+[amitsun.noida@gmail.com](mailto:amitsun.noida@gmail.com)
+
+📝 **Medium**
+
+Follow my engineering articles on Android, AI, Prompt Engineering, System Design, and Software Development.
+
+---
+
+# ⚡ Fun Fact
+
+> I enjoy transforming difficult engineering challenges—whether it's mobile SDK optimization, AI integration, distributed systems, or performance bottlenecks—into elegant, scalable, production-ready solutions.
+
+---
+
+### ⭐ *"Build software that scales. Build AI that empowers developers."*
