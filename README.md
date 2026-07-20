@@ -1,186 +1,342 @@
-# 👋 Hi, I'm **Amit Kumar Gupta**
-
 <div align="center">
 
-### 🚀 Senior Software Engineering Manager • Mobile SDK Architect • AI Prompt Engineer
+# 👋 Hi, I'm Amit Kumar Gupta
 
-**Building AI-powered Mobile SDKs • Android • iOS • Flutter • React Native • Spring Boot**
+### 🚀 Senior Software Engineering Manager | Mobile SDK Architect | AI Prompt Engineer
+
+Building AI-Powered Mobile SDKs • Android • iOS • Spring Boot • Generative AI
 
 📍 Delhi NCR, India 🇮🇳
 
-**10+ Years of Experience**
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=0A84FF&center=true&vCenter=true&width=700&lines=Senior+Software+Engineering+Manager;Mobile+SDK+Architect;Android+%7C+iOS+Developer;AI+Prompt+Engineer;Spring+Boot+Developer;Technical+Writer;Open+Source+Contributor" />
+
+<p>
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?style=for-the-badge"/>
+</p>
 
 </div>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-I'm a **Senior Software Engineering Manager** specializing in **Mobile SDK Development**, **AI-powered applications**, and **Developer Platforms**.
+I'm a **Senior Software Engineering Manager** with **10+ years of experience** in designing scalable mobile applications, enterprise SDKs, and AI-powered developer tools.
 
-Over the past decade, I've built scalable mobile infrastructure powering **900+ mobile applications** and delivering **14+ billion push notifications** worldwide.
+I specialize in building production-grade Mobile SDKs for Android, iOS, Flutter, and React Native, helping developers integrate complex technologies with simplicity.
 
-My passion lies in solving complex engineering problems, improving developer experience, and integrating **Generative AI** into real-world products.
+My passion is combining **Software Engineering** with **Artificial Intelligence** to build the next generation of intelligent developer platforms.
 
 ---
 
-## 💡 What I'm Currently Working On
+# 💡 What I Do
 
-* 🤖 AI Prompt Engineering & LLM Applications
-* 🧠 GPT & Gemini Integration
-* 📱 Android & iOS SDK Architecture
-* ⚡ Mobile Performance Optimization
-* 🚀 Cross-platform SDKs (Flutter & React Native)
-* ☁️ Spring Boot Backend Development
-* 🔄 CI/CD & DevOps Automation
-* 📊 Firebase Analytics & Remote Config
+- 📱 Mobile SDK Architecture
+- 🚀 Android & iOS Development
+- 🤖 AI Prompt Engineering
+- 🧠 LLM Integration
+- ☁ Spring Boot Backend
+- ⚡ Performance Optimization
+- 🔥 Firebase Solutions
+- 📊 Mobile Analytics
+- 🔐 App Security
+- 👨‍💻 Engineering Leadership
+- 🎯 Developer Experience (DX)
+- 🚀 CI/CD Automation
 
 ---
 
 # 🛠 Tech Stack
 
-### Mobile
+## Mobile
 
-* Kotlin
-* Java
-* Swift
-* SwiftUI
-* Android SDK
-* Jetpack Compose
-* Flutter
-* React Native
+<p>
 
-### Backend
+<img src="https://skillicons.dev/icons?i=android,kotlin,java,swift,flutter,react"/>
 
-* Spring Boot
-* REST APIs
-* PostgreSQL
-* Firebase
-* Kafka
+</p>
 
-### AI & Prompt Engineering
+---
 
-* OpenAI GPT
-* Google Gemini
-* Prompt Engineering
-* AI Workflow Automation
-* AI-assisted Development
-* Retrieval-Augmented Generation (RAG)
-* AI Content Generation
+## Backend
 
-### Cloud & DevOps
+<p>
 
-* GitHub Actions
-* Docker
-* Gradle
-* CocoaPods
-* Firebase App Distribution
+<img src="https://skillicons.dev/icons?i=spring,postgres,firebase,docker,kafka"/>
+
+</p>
+
+---
+
+## AI & Prompt Engineering
+
+- OpenAI GPT
+- Google Gemini
+- Prompt Engineering
+- AI Workflow Automation
+- AI Assisted Development
+- Retrieval Augmented Generation (RAG)
+- Context Engineering
+- AI Agents
+- AI Content Generation
+- AI-powered Mobile Applications
+
+---
+
+## DevOps & Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,gradle,linux"/>
+
+</p>
 
 ---
 
 # 🚀 Key Achievements
 
-🏆 Mobile SDK integrated into **900+ applications**
+✅ 10+ Years Professional Experience
+
+📱 Mobile SDK integrated into **900+ Apps**
 
 📨 Delivered **14+ Billion Push Notifications**
 
-📱 Built enterprise SDKs used by large-scale production apps
+🏢 Enterprise Integrations
 
-🚄 Enterprise integrations including **IRCTC Rail Connect**
+- IRCTC Rail Connect
+- Zee News
 
-📰 Successfully delivered solutions for **Zee News**
+🚀 Built SDK Launcher for developers
 
-⚡ Improved app startup performance and SDK initialization
+📉 Reduced ANRs
 
-📉 Reduced ANRs and memory leaks across production applications
+⚡ Optimized App Startup Time
 
-👨‍💻 Led engineering teams and mentored mobile developers
+📦 Reduced APK Size
+
+🧠 Improved Killed-State Notification Delivery
+
+👨‍💻 Mentored Mobile Engineers
 
 ---
 
 # 🤖 AI Engineering
 
-I'm actively exploring how AI can transform software development.
+Currently working on
 
-Current interests include:
-
-* Prompt Engineering
-* AI Agents
-* Code Generation
-* Mobile AI Assistants
-* AI-powered Developer Tools
-* LLM Integration
-* Context Engineering
-* AI Automation
-* MCP
-* RAG Systems
-* AI-first Mobile Apps
-
----
-
-# ✍️ Technical Writing
-
-I regularly write about:
-
-* Android Development
-* Mobile SDK Architecture
-* System Design
-* AI Engineering
-* Prompt Engineering
-* DSA
-* Performance Optimization
-* Spring Boot
-* Software Engineering
-
-📚 I publish technical articles on **Medium** focused on practical engineering, AI, and scalable software development.
+- GPT Applications
+- Gemini Integration
+- Prompt Engineering
+- AI Automation
+- AI Coding Assistants
+- Mobile AI
+- AI SDK Development
+- AI Agents
+- RAG
+- MCP
+- AI Powered Workflows
+- Context Engineering
 
 ---
 
 # 🌱 Currently Learning
 
-* Agentic AI
-* Multi-Agent Systems
-* Advanced Prompt Engineering
-* Vector Databases
-* MCP
-* AI SDKs
-* LangChain
-* Production AI Systems
+- Agentic AI
+- LangChain
+- LangGraph
+- MCP
+- LLMOps
+- Vector Databases
+- Semantic Search
+- AI Infrastructure
+- AI SDKs
+- Cloud Native Applications
 
 ---
 
-# 📈 GitHub Goals
+# 🚀 Featured Projects
 
-* Open Source Contributions
-* AI Projects
-* Android Libraries
-* Developer Tools
-* Mobile SDK Examples
-* Technical Blogs
-* Engineering Best Practices
-
----
-
-# 🤝 Let's Connect
-
-💼 **LinkedIn**
-
-https://www.linkedin.com/in/amitguptaandroid/
-
-📧 **Email**
-
-[amitsun.noida@gmail.com](mailto:amitsun.noida@gmail.com)
-
-📝 **Medium**
-
-Follow my engineering articles on Android, AI, Prompt Engineering, System Design, and Software Development.
+| Project | Description |
+|----------|-------------|
+| 📱 Mobile SDK | Enterprise Push Notification SDK |
+| 🚀 SDK Launcher | SDK Integration Platform |
+| 🤖 AI Prompt Library | Production Ready AI Prompts |
+| 📚 Harcourtian Connect | Alumni Networking Platform |
+| 👶 Pregnancy Calculator | Health & Utility App |
+| 👏 Find Phone by Clap | Utility Application |
+| ☁ PlayLaunch | Google Play Testing Platform |
+| ⚡ Spring Boot Auth | Authentication Server |
 
 ---
 
-# ⚡ Fun Fact
+# ✍ Technical Writing
 
-> I enjoy transforming difficult engineering challenges—whether it's mobile SDK optimization, AI integration, distributed systems, or performance bottlenecks—into elegant, scalable, production-ready solutions.
+I regularly write articles on
+
+- Android Development
+
+- Mobile SDK Development
+
+- AI Engineering
+
+- Prompt Engineering
+
+- System Design
+
+- Spring Boot
+
+- Performance Optimization
+
+- DSA
+
+- Software Engineering
 
 ---
 
-### ⭐ *"Build software that scales. Build AI that empowers developers."*
+# 📈 Engineering Metrics
+
+| Metric | Value |
+|----------|--------|
+| Experience | 10+ Years |
+| Apps Integrated | 900+ |
+| Notifications Delivered | 14B+ |
+| Production Apps | 20+ |
+| SDK Platforms | Android, iOS, Flutter, React Native |
+| Focus | AI + Mobile Engineering |
+
+---
+
+# 🏆 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=algolia&row=2&column=4"/>
+
+</p>
+
+---
+
+# 📊 Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-compact"/>
+
+</p>
+
+---
+
+# 🎯 2026 Goals
+
+- ⭐ Build AI Developer Platform
+- ⭐ Contribute to Open Source
+- ⭐ Publish 100+ Technical Articles
+- ⭐ Build AI SDK
+- ⭐ Launch AI SaaS Products
+- ⭐ Speak at Global Tech Conferences
+- ⭐ Mentor Developers Worldwide
+
+---
+
+# 🤝 Open to Collaborate
+
+I enjoy collaborating on
+
+- Android
+- iOS
+- Flutter
+- React Native
+- AI Applications
+- Prompt Engineering
+- Spring Boot
+- SDK Development
+- Open Source
+- System Design
+
+---
+
+# 💬 Ask Me About
+
+- Android Development
+- Mobile SDK Architecture
+- Kotlin
+- Swift
+- Flutter Plugins
+- React Native Modules
+- Spring Boot
+- AI Prompt Engineering
+- Mobile Performance
+- Firebase
+- Push Notifications
+
+---
+
+# 📚 Latest Interests
+
+- Artificial Intelligence
+- Prompt Engineering
+- AI Agents
+- LLM Applications
+- System Design
+- Mobile Security
+- Performance Engineering
+- Cloud Native Development
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/amitguptaandroid">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:amitsun.noida@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://medium.com">
+<img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium"/>
+</a>
+
+</p>
+
+---
+
+# 💙 Fun Fact
+
+> I love solving complex engineering challenges—whether it's AI integration, mobile SDK optimization, distributed systems, or performance bottlenecks—and turning them into elegant, scalable, production-ready solutions.
+
+---
+
+<div align="center">
+
+## ⭐ If you like my work, consider giving a ⭐ to my repositories!
+
+### 🚀 Building Scalable Software • Empowering Developers • Exploring AI
+
+</div>
