@@ -146,6 +146,7 @@ A photo and video compression app designed to reduce file sizes and help users m
 ### 🤖 Picta — AI Photo Enhancer (Android/iOS)
 
 AI-powered photo enhancement application focused on improving image quality, details and visual clarity.
+
 🔗 https://apps.apple.com/in/app/picta-ai-photo-enhancer/id6767178546
 ---
 
