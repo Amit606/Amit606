@@ -129,7 +129,8 @@ Building **Playlaunch** to help startups, businesses and app developers build, t
 - 🚀 Launch & Submission Support
 
 🌍 **First international customer is already LIVE with Playlaunch.**
-🔗 https:playlaunch.in
+
+🔗 https://playlaunch.in
 ---
 
 # 📱 Featured Products
@@ -145,8 +146,10 @@ A photo and video compression app designed to reduce file sizes and help users m
 ### 🤖 Picta — AI Photo Enhancer (Android/iOS)
 
 AI-powered photo enhancement application focused on improving image quality, details and visual clarity.
-🔗 [https://apps.apple.com/in/app/picta-ai-photo-enhancer/id6767178546]
-🔗 [https://play.google.com/store/apps/details?id=com.picta.android&hl=en_IN]
+🔗 https://apps.apple.com/in/app/picta-ai-photo-enhancer/id6767178546
+---
+
+🔗 https://play.google.com/store/apps/details?id=com.picta.android&hl=en_IN
 ---
 
 ### 🌍 Harcourtian Connect
