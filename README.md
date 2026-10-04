@@ -31,6 +31,19 @@ Android • iOS • Flutter • React Native • AI • Spring Boot
 
 ---
 
+## 🏆 Engineering Highlights
+
+| 🚀 Metric | 📊 Impact |
+|---|---:|
+| 📱 Apps Integrated with SDK | **900+** |
+| 📨 Push Notifications Delivered | **14B+** |
+| 💼 Professional Experience | **10.5+ Years** |
+| 📦 Production Mobile Apps | **20+** |
+| 🧩 Mobile Platforms | **Android • iOS • Flutter • React Native** |
+| 🌍 International Customers | **Yes** |
+
+---
+
 ## 👨‍💻 About Me
 
 I'm a **Senior Software Engineering Manager, Mobile SDK Architect, and AI Engineer** with **10.5+ years of experience** building production-grade mobile applications, SDKs, developer platforms, and scalable backend systems.
@@ -51,20 +64,7 @@ I enjoy solving complex engineering problems and turning them into **simple, sca
 
 ---
 
-# 🏆 Engineering Highlights
-
-| 🚀 Metric | 📊 Impact |
-|---|---:|
-| 💼 Professional Experience | **10.5+ Years** |
-| 📱 Apps Integrated with SDK | **900+** |
-| 📨 Push Notifications Delivered | **14B+** |
-| 📦 Production Mobile Apps | **20+** |
-| 🧩 Mobile Platforms | **Android • iOS • Flutter • React Native** |
-| 🌍 International Customers | **Yes** |
-
----
-
-# 🛠️ Technical Expertise
+## 🛠️ Technical Expertise
 
 ### 📱 Mobile Engineering
 
@@ -92,7 +92,7 @@ I enjoy solving complex engineering problems and turning them into **simple, sca
 
 ---
 
-# 🧩 iZooto SDK Ecosystem
+## 🧩 iZooto SDK Ecosystem
 
 Designed and developed the **iZooto SDK ecosystem** across multiple platforms:
 
@@ -121,7 +121,7 @@ https://cocoapods.org/pods/iZootoiOSSDK
 
 ---
 
-# 🚀 PlayLaunch
+## 🚀 PlayLaunch
 
 ### **Launch Smarter. Test Better. Grow Faster.**
 
@@ -143,9 +143,9 @@ Building **PlayLaunch**, a platform designed to help app developers and business
 
 ---
 
-# 📱 Featured Products
+## 📱 Featured Products
 
-## 🗜️ Dropsize — Photo & Video Shrink
+### 🗜️ Dropsize — Photo & Video Shrink
 
 A photo and video compression application designed to reduce file sizes and help users manage device storage efficiently.
 
@@ -153,21 +153,17 @@ A photo and video compression application designed to reduce file sizes and help
 
 ---
 
-## 🤖 Picta — AI Photo Enhancer
+### 🤖 Picta — AI Photo Enhancer
 
 AI-powered photo enhancement application focused on improving image quality, details, and visual clarity.
 
-### iOS
+**iOS:** https://apps.apple.com/in/app/picta-ai-photo-enhancer/id6767178546
 
-🔗 https://apps.apple.com/in/app/picta-ai-photo-enhancer/id6767178546
-
-### Android
-
-🔗 https://play.google.com/store/apps/details?id=com.picta.android&hl=en_IN
+**Android:** https://play.google.com/store/apps/details?id=com.picta.android&hl=en_IN
 
 ---
 
-## 🌍 Harcourtian Connect
+### 🌍 Harcourtian Connect
 
 An alumni networking platform designed to help former students stay connected and build meaningful professional relationships.
 
@@ -175,7 +171,7 @@ An alumni networking platform designed to help former students stay connected an
 
 ---
 
-## 👶 Pregnancy Calculator
+### 👶 Pregnancy Calculator
 
 Android utility application providing pregnancy-related date calculations and useful pregnancy tracking features.
 
@@ -183,13 +179,13 @@ Android utility application providing pregnancy-related date calculations and us
 
 ---
 
-## 👏 Find Phone By Clap
+### 👏 Find Phone By Clap
 
 Android utility application that helps users locate a misplaced phone using clap sound detection.
 
 ---
 
-# 🤖 AI Engineering
+## 🤖 AI Engineering
 
 I'm actively exploring and building with modern AI technologies:
 
@@ -220,3 +216,21 @@ Context Engineering
 AI Workflows
   ↓
 AI-powered Products
+```
+
+---
+
+## 🤝 Let's Connect
+
+I'm always open to conversations about **mobile SDK architecture, AI-powered products, engineering leadership, and building developer-friendly platforms**.
+
+- 💼 LinkedIn: [amitguptaandroid](https://www.linkedin.com/in/amitguptaandroid)
+- ✍️ Medium: [@AmitGuptaAppschance](https://medium.com/@AmitGuptaAppschance)
+- 📧 Email: [amitsun.noida@gmail.com](mailto:amitsun.noida@gmail.com)
+- 🚀 PlayLaunch: [playlaunch.in](https://playlaunch.in)
+
+<div align="center">
+
+⭐ *Thanks for stopping by!* ⭐
+
+</div>
