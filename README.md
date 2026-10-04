@@ -4,21 +4,28 @@
 
 ### 🚀 Senior Software Engineering Manager | Mobile SDK Architect | AI Engineer
 
-**10.5+ Years of Experience** • Android • iOS • Flutter • React Native • AI • Spring Boot
+**10.5+ Years of Experience**  
+Android • iOS • Flutter • React Native • AI • Spring Boot
 
 <p>
   <a href="https://www.linkedin.com/in/amitguptaandroid">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-View%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+
   <a href="https://medium.com/@AmitGuptaAppschance">
-<img src="https://img.shields.io/badge/Medium-Technical%20Articles-000000?style=for-the-badge&logo=medium&logoColor=white"/>
-</a>
+    <img src="https://img.shields.io/badge/Medium-Technical%20Articles-000000?style=for-the-badge&logo=medium&logoColor=white"/>
+  </a>
+
   <a href="mailto:amitsun.noida@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+
+  <a href="https://playlaunch.in">
+    <img src="https://img.shields.io/badge/PlayLaunch-Visit%20Website-FF6B35?style=for-the-badge"/>
+  </a>
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0A84FF&center=true&vCenter=true&width=750&lines=Mobile+SDK+Architect;Android+%7C+iOS+Engineer;Flutter+%7C+React+Native+Developer;AI+%26+Prompt+Engineering;Spring+Boot+%26+Backend;Engineering+Leadership;Building+Scalable+Products" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0A84FF&center=true&vCenter=true&width=800&lines=Mobile+SDK+Architect;Android+%7C+iOS+Engineer;Flutter+%7C+React+Native+Developer;AI+%26+LLM+Engineer;Spring+Boot+%26+Backend;Engineering+Leadership;Building+Scalable+Products" />
 
 </div>
 
@@ -26,9 +33,9 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Senior Software Engineering Manager and Mobile SDK Architect** with **10.5+ years of experience** building scalable, production-grade software and developer platforms.
+I'm a **Senior Software Engineering Manager, Mobile SDK Architect, and AI Engineer** with **10.5+ years of experience** building production-grade mobile applications, SDKs, developer platforms, and scalable backend systems.
 
-My core expertise spans:
+My engineering experience spans:
 
 - 📱 Android & iOS SDK architecture
 - 🧩 Flutter & React Native plugins
@@ -37,9 +44,10 @@ My core expertise spans:
 - 🤖 AI, LLMs & Prompt Engineering
 - 📊 Analytics & Push Notification platforms
 - ⚡ Performance optimization
+- 🔐 Application security
 - 👨‍💻 Engineering leadership & mentoring
 
-I enjoy taking complex engineering problems and turning them into **simple, scalable, reliable developer experiences**.
+I enjoy solving complex engineering problems and turning them into **simple, scalable, reliable developer experiences**.
 
 ---
 
@@ -51,12 +59,12 @@ I enjoy taking complex engineering problems and turning them into **simple, scal
 | 📱 Apps Integrated with SDK | **900+** |
 | 📨 Push Notifications Delivered | **14B+** |
 | 📦 Production Mobile Apps | **20+** |
-| 🧩 SDK Platforms | **Android • iOS • Flutter • React Native** |
+| 🧩 Mobile Platforms | **Android • iOS • Flutter • React Native** |
 | 🌍 International Customers | **Yes** |
 
 ---
 
-# 🛠️ Core Expertise
+# 🛠️ Technical Expertise
 
 ### 📱 Mobile Engineering
 
@@ -68,7 +76,7 @@ I enjoy taking complex engineering problems and turning them into **simple, scal
 
 `Background Processing` `Deep Linking` `Event Tracking` `Developer Experience`
 
-### ☁️ Backend
+### ☁️ Backend & Cloud
 
 `Spring Boot` `REST APIs` `PostgreSQL` `Firebase` `Kafka` `Docker`
 
@@ -78,21 +86,19 @@ I enjoy taking complex engineering problems and turning them into **simple, scal
 
 `AI Agents` `MCP` `Context Engineering` `AI Workflows`
 
-### ⚙️ DevOps & Tools
+### ⚙️ DevOps & Engineering Tools
 
 `Git` `GitHub Actions` `Gradle` `Docker` `Linux` `CI/CD`
 
 ---
 
-# 🚀 Major Engineering Work
-
-## 🧩 iZooto SDK Ecosystem
+# 🧩 iZooto SDK Ecosystem
 
 Designed and developed the **iZooto SDK ecosystem** across multiple platforms:
 
 **Android • iOS • Flutter • React Native**
 
-Key areas:
+### Key Engineering Areas
 
 - SDK architecture & core components
 - Push notification infrastructure
@@ -115,140 +121,102 @@ https://cocoapods.org/pods/iZootoiOSSDK
 
 ---
 
-# 🚀 Playlaunch
+# 🚀 PlayLaunch
 
 ### **Launch Smarter. Test Better. Grow Faster.**
 
-Building **Playlaunch** to help startups, businesses and app developers build, test and launch digital products.
+Building **PlayLaunch**, a platform designed to help app developers and businesses test, prepare, and launch their mobile applications more efficiently.
 
-### Playlaunch Services
+### What PlayLaunch Offers
 
 - 📱 Android App Testing
 - 🧪 Google Play Closed Testing Support
-- 📲 12+ Real Android Devices
-- 📅 14 Days Testing
+- 📲 Real Android Device Testing
+- 📅 14-Day Testing
 - 🔍 Testing Progress Monitoring
 - 🐛 Issue & Feedback Tracking
 - 🚀 Launch & Submission Support
 
-🌍 **First international customer is already LIVE with Playlaunch.**
+🌍 **PlayLaunch has already onboarded international customers.**
 
 🔗 https://playlaunch.in
+
 ---
 
 # 📱 Featured Products
 
-### 🗜️ Dropsize — Photo & Video Shrink
+## 🗜️ Dropsize — Photo & Video Shrink
 
-A photo and video compression app designed to reduce file sizes and help users manage device storage efficiently.
+A photo and video compression application designed to reduce file sizes and help users manage device storage efficiently.
 
 🔗 https://apps.apple.com/us/app/dropsize-photo-video-shrink/id6799397533
 
 ---
 
-### 🤖 Picta — AI Photo Enhancer (Android/iOS)
+## 🤖 Picta — AI Photo Enhancer
 
-AI-powered photo enhancement application focused on improving image quality, details and visual clarity.
+AI-powered photo enhancement application focused on improving image quality, details, and visual clarity.
+
+### iOS
 
 🔗 https://apps.apple.com/in/app/picta-ai-photo-enhancer/id6767178546
----
+
+### Android
 
 🔗 https://play.google.com/store/apps/details?id=com.picta.android&hl=en_IN
+
 ---
 
-### 🌍 Harcourtian Connect
+## 🌍 Harcourtian Connect
 
-Alumni networking platform designed to help former students stay connected and build meaningful professional relationships.
+An alumni networking platform designed to help former students stay connected and build meaningful professional relationships.
 
 🔗 https://play.google.com/store/apps/details?id=com.kwh.almuniconnect
 
 ---
 
-### 👶 Pregnancy Calculator
+## 👶 Pregnancy Calculator
 
-Android utility application for calculating important pregnancy-related dates.
+Android utility application providing pregnancy-related date calculations and useful pregnancy tracking features.
 
 🔗 https://play.google.com/store/apps/details?id=com.kwh.pc.pc
 
 ---
 
-### 👏 Find Phone By Clap
+## 👏 Find Phone By Clap
 
-Android utility app that helps users locate a misplaced phone using clap sound detection.
+Android utility application that helps users locate a misplaced phone using clap sound detection.
 
 ---
 
 # 🤖 AI Engineering
 
-I'm actively exploring and building with:
+I'm actively exploring and building with modern AI technologies:
 
 - 🧠 Large Language Models
 - ✨ Prompt Engineering
 - 🤖 AI Agents
-- 🔗 RAG
-- 🧩 MCP
+- 🔗 Retrieval-Augmented Generation (RAG)
+- 🧩 Model Context Protocol (MCP)
 - 🧠 Context Engineering
 - ⚙️ AI Automation
 - 📱 AI-powered Mobile Applications
 - 🛠️ AI Developer Tools
 - ☁️ LLM Infrastructure
 
-My goal is to combine **AI + Software Engineering + Developer Experience** to build practical products that solve real-world problems.
-
----
-
-# ⚡ Engineering Impact
-
-Throughout my engineering journey, I've worked on:
-
-- 📉 Reducing Android ANRs
-- ⚡ Improving application startup time
-- 📦 Reducing APK size
-- 📨 Improving notification delivery
-- 🧠 Improving killed-state notification handling
-- 🔥 Firebase integrations
-- 📊 Mobile analytics systems
-- 🔐 Application security
-- 🧩 SDK architecture
-- 🚀 CI/CD automation
-- 👨‍💻 Engineering team mentoring
-
----
-
-# ✍️ Technical Interests
-
-I enjoy writing and sharing knowledge around:
-
-- Android Development
-- Kotlin
-- Mobile SDK Architecture
-- iOS Development
-- Flutter
-- React Native
-- System Design
-- AI Engineering
-- Prompt Engineering
-- Spring Boot
-- Performance Engineering
-- Firebase
-- Push Notifications
-- Software Architecture
-
----
-
-# 🌱 Currently Exploring
+### My AI Focus
 
 ```text
-Agentic AI
-      ↓
 LLMs
-      ↓
+  ↓
 RAG
-      ↓
+  ↓
 AI Agents
-      ↓
+  ↓
 MCP
-      ↓
+  ↓
 Context Engineering
-      ↓
-AI Developer Platforms
+  ↓
+AI Workflows
+  ↓
+AI-powered Products
